@@ -21,7 +21,7 @@ Evaluation of chatbot responses based on relevance, coherence, and engagement.
 Automatic generation of improved responses using GPT-3.5 if required.
 Logging of interactions in JSON format for further analysis and tracking.
 This project facilitates the augmentation of chatbot responses, enhancing user experience and engagement in conversational interactions.
-
+![Alt Text](https://github.com/ashutosh1619/huchat-chatgpt3-cusom/blob/main/chat22.png)
 
 
 
